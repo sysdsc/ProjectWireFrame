@@ -1,4 +1,4 @@
-# projeto - html, css e js basic
+# Projeto - HTML, CSS e JS basic
 Projeto criado pra apresentar técnicas de Flexbox.
 
 <img src="./.github/preview.jpg" alt="Foto do projeto">
